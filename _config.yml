@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
 title: Resume 
 author: Gavin Lesko
 description: Da Resume 
